@@ -22,6 +22,6 @@
         
     <application 
         android:hasCode="false" 
-        android:label="@string/accent_color_sublime"/>
+        android:label="@string/accent_color_name"/>
 
 </manifest>
